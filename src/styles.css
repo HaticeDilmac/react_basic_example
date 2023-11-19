@@ -1,0 +1,43 @@
+.container {
+    background: linear-gradient(to right,#3372fa, #7c0505);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center; /* Ortala */
+    max-width: 400px; /* Maksimum genişlik ayarı */
+    margin: 0 auto; /* Merkezden hizalama */
+  }
+  
+  h2 {
+    color: white;
+  }
+  
+  label, input {
+    display: block;
+    margin-bottom: 10px;
+    color: black;
+  }
+  
+  input {
+    width: 100%; /* Genişlik ayarı */
+  }
+  
+  button {
+    background-color: white;
+    color: black;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+  }
+  
